@@ -166,7 +166,7 @@ IITK-SemEval-2024-Task-10-Emotion-Flip/
 
 The models trained and used for submission can be found below
 
-https://onedrive.live.com/?id=A668F45668274EE0%2185349&cid=A668F45668274EE0
+https://onedrive.live.com/?authkey=%21AEea%5FAq8BYWLHjw&id=A668F45668274EE0%2185349&cid=A668F45668274EE0
 
 ### Drive Directory Structure
 
